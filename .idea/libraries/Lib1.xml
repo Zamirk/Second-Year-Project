@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/Lib/jfreechart-1.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Lib/jcommon-1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Lib/ojdbc6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Lib/swingx-all-1.6.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Lib/tween-engine-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
